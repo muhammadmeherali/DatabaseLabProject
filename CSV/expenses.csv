@@ -1,0 +1,101 @@
+ExpenseID,TripID,Category,Amount,ExpenseDate,Notes
+1,1,Hotel,962.22,2025-02-16,
+2,1,Activities,895.82,2025-02-17,
+3,2,Transport,603.0,2024-09-11,
+4,2,Food,1110.31,2024-09-11,Extra charge at checkout
+5,3,Other,518.03,2023-09-10,
+6,4,Transport,661.39,2023-01-13,
+7,4,Hotel,109.88,2023-01-12,Extra charge at checkout
+8,4,Food,543.41,2023-01-13,
+9,5,Other,541.03,2025-04-27,
+10,6,Other,1045.99,2023-03-22,
+11,7,Activities,340.35,2024-10-07,Paid by card
+12,7,Hotel,810.35,2024-10-07,
+13,7,Food,623.01,2024-10-11,Reimbursable expense
+14,8,Transport,1020.67,2024-03-09,
+15,9,Transport,94.67,2024-11-07,
+16,10,Activities,1140.12,2024-09-04,Paid by card
+17,10,Shopping,196.82,2024-09-05,
+18,11,Food,541.07,2024-08-02,Split with travel partner
+19,11,Shopping,178.17,2024-07-23,
+20,12,Food,784.73,2024-03-09,Included in package
+21,12,Hotel,45.71,2024-03-11,Reimbursable expense
+22,13,Shopping,473.58,2024-12-03,Split with travel partner
+23,13,Food,933.33,2024-12-02,
+24,14,Shopping,353.41,2023-03-27,
+25,15,Hotel,175.84,2023-07-15,Split with travel partner
+26,16,Transport,1079.93,2024-09-13,
+27,16,Hotel,975.46,2024-09-13,
+28,17,Food,855.81,2023-10-05,Extra charge at checkout
+29,17,Food,1023.86,2023-10-02,Reimbursable expense
+30,17,Food,617.88,2023-10-01,Split with travel partner
+31,18,Transport,295.53,2024-05-27,
+32,19,Food,671.52,2024-02-22,
+33,20,Shopping,168.78,2024-04-18,Split with travel partner
+34,20,Hotel,381.51,2024-04-17,
+35,21,Activities,926.46,2024-01-12,Split with travel partner
+36,21,Transport,1167.27,2024-01-11,Split with travel partner
+37,21,Activities,567.01,2024-01-16,
+38,22,Shopping,773.16,2024-10-30,Reimbursable expense
+39,23,Activities,610.89,2023-10-28,Paid by card
+40,24,Shopping,196.32,2024-09-18,Reimbursable expense
+41,25,Food,1122.66,2023-09-13,Included in package
+42,26,Shopping,1075.49,2023-08-16,Split with travel partner
+43,26,Food,247.62,2023-08-12,Extra charge at checkout
+44,27,Other,373.85,2023-04-17,Split with travel partner
+45,28,Other,214.83,2023-06-30,Reimbursable expense
+46,28,Transport,795.6,2023-06-26,
+47,28,Shopping,63.82,2023-06-28,Paid by card
+48,29,Hotel,1139.03,2023-04-25,Extra charge at checkout
+49,30,Transport,923.85,2024-04-17,
+50,30,Shopping,772.2,2024-04-19,
+51,30,Other,661.51,2024-04-20,Extra charge at checkout
+52,31,Transport,968.56,2024-11-05,
+53,31,Food,552.45,2024-11-03,Paid by card
+54,32,Activities,507.51,2023-06-16,
+55,33,Food,733.89,2023-07-13,
+56,34,Food,885.03,2024-03-12,
+57,34,Activities,169.96,2024-03-15,
+58,34,Shopping,680.56,2024-03-07,
+59,35,Activities,160.19,2024-10-12,
+60,36,Transport,129.72,2025-05-13,Extra charge at checkout
+61,37,Shopping,510.49,2024-04-21,Reimbursable expense
+62,37,Food,1121.5,2024-04-19,
+63,38,Transport,605.44,2023-09-13,
+64,39,Food,604.38,2023-04-01,Split with travel partner
+65,39,Activities,613.95,2023-03-31,Included in package
+66,40,Shopping,433.18,2023-06-25,Paid by card
+67,41,Activities,723.06,2023-08-06,
+68,41,Food,650.98,2023-07-27,Split with travel partner
+69,42,Transport,1060.71,2023-06-10,
+70,42,Activities,448.64,2023-06-11,
+71,43,Shopping,680.75,2023-01-16,
+72,44,Food,102.14,2024-04-19,
+73,44,Shopping,346.47,2024-04-18,Split with travel partner
+74,44,Transport,1170.47,2024-04-17,
+75,45,Food,676.03,2023-09-01,
+76,45,Transport,250.88,2023-09-05,
+77,46,Hotel,68.68,2025-05-13,Reimbursable expense
+78,46,Other,409.65,2025-05-14,
+79,46,Shopping,556.53,2025-05-10,Reimbursable expense
+80,47,Shopping,392.46,2024-05-11,
+81,47,Shopping,891.09,2024-05-16,Extra charge at checkout
+82,48,Food,616.17,2024-09-14,
+83,48,Other,682.07,2024-09-19,
+84,48,Hotel,451.5,2024-09-09,Split with travel partner
+85,49,Shopping,379.6,2023-04-28,Paid by card
+86,49,Shopping,577.39,2023-04-26,Included in package
+87,50,Hotel,706.48,2025-02-07,Reimbursable expense
+88,50,Shopping,760.39,2025-02-06,
+89,50,Transport,988.67,2025-02-11,Included in package
+90,51,Shopping,1138.62,2024-03-10,Split with travel partner
+91,52,Hotel,537.63,2025-02-08,
+92,53,Activities,833.24,2024-06-01,
+93,54,Shopping,1105.82,2024-02-29,Paid by card
+94,54,Other,178.63,2024-02-24,Included in package
+95,54,Shopping,400.18,2024-02-20,
+96,55,Activities,386.8,2024-01-29,Reimbursable expense
+97,55,Activities,1095.87,2024-01-27,
+98,55,Shopping,434.83,2024-01-29,Extra charge at checkout
+99,56,Activities,242.83,2023-06-15,Included in package
+100,56,Food,676.33,2023-06-13,Included in package

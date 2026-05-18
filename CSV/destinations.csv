@@ -1,0 +1,101 @@
+DestinationID,TripID,City,Country,ArrivalDate,DepartureDate
+1,1,London,UK,2025-02-15,2025-02-17
+2,2,London,UK,2024-09-10,2024-09-12
+3,2,Istanbul,Turkey,2024-09-12,2024-09-15
+4,3,Sydney,Australia,2023-09-01,2023-09-05
+5,4,Athens,Greece,2023-01-09,2023-01-14
+6,5,Amsterdam,Netherlands,2025-04-16,2025-04-18
+7,5,Bangkok,Thailand,2025-04-18,2025-04-20
+8,6,Amsterdam,Netherlands,2023-03-17,2023-03-19
+9,7,Vienna,Austria,2024-09-27,2024-10-03
+10,7,Rome,Italy,2024-10-03,2024-10-08
+11,8,Paris,France,2024-03-06,2024-03-10
+12,9,Paris,France,2024-10-30,2024-11-03
+13,9,Tokyo,Japan,2024-11-03,2024-11-10
+14,10,Cape Town,South Africa,2024-09-01,2024-09-03
+15,11,Lisbon,Portugal,2024-07-23,2024-07-29
+16,11,Lahore,Pakistan,2024-07-29,2024-08-04
+17,12,New York,USA,2024-03-08,2024-03-11
+18,13,Lahore,Pakistan,2024-11-30,2024-12-02
+19,14,Athens,Greece,2023-03-24,2023-03-28
+20,15,Cape Town,South Africa,2023-07-15,2023-07-17
+21,16,Marrakech,Morocco,2024-09-02,2024-09-04
+22,17,Paris,France,2023-09-28,2023-10-03
+23,17,New York,USA,2023-10-03,2023-10-05
+24,18,Singapore,Singapore,2024-05-27,2024-05-31
+25,19,Istanbul,Turkey,2024-02-22,2024-02-29
+26,20,Maldives,Maldives,2024-04-13,2024-04-17
+27,21,Dubai,UAE,2024-01-11,2024-01-15
+28,22,Cape Town,South Africa,2024-10-19,2024-10-25
+29,22,Bali,Indonesia,2024-10-25,2024-10-27
+30,23,London,UK,2023-10-19,2023-10-22
+31,24,Paris,France,2024-09-11,2024-09-13
+32,24,Prague,Czech Republic,2024-09-13,2024-09-18
+33,25,Athens,Greece,2023-08-27,2023-08-31
+34,25,Lahore,Pakistan,2023-08-31,2023-09-06
+35,26,Maldives,Maldives,2023-08-10,2023-08-16
+36,27,London,UK,2023-04-17,2023-04-19
+37,28,Istanbul,Turkey,2023-06-19,2023-06-25
+38,28,Amsterdam,Netherlands,2023-06-25,2023-07-02
+39,29,Singapore,Singapore,2023-04-16,2023-04-21
+40,30,Cape Town,South Africa,2024-04-17,2024-04-20
+41,31,Cape Town,South Africa,2024-11-03,2024-11-05
+42,31,Athens,Greece,2024-11-05,2024-11-08
+43,32,Cape Town,South Africa,2023-06-13,2023-06-18
+44,32,Bali,Indonesia,2023-06-18,2023-06-21
+45,33,Amsterdam,Netherlands,2023-07-10,2023-07-13
+46,33,Tokyo,Japan,2023-07-13,2023-07-18
+47,34,Cape Town,South Africa,2024-03-03,2024-03-10
+48,34,Barcelona,Spain,2024-03-10,2024-03-16
+49,35,Maldives,Maldives,2024-10-01,2024-10-07
+50,35,Istanbul,Turkey,2024-10-07,2024-10-11
+51,36,Tokyo,Japan,2025-05-11,2025-05-16
+52,36,Vienna,Austria,2025-05-16,2025-05-18
+53,37,Karachi,Pakistan,2024-04-07,2024-04-12
+54,37,Cape Town,South Africa,2024-04-12,2024-04-15
+55,38,Athens,Greece,2023-09-07,2023-09-10
+56,38,Cape Town,South Africa,2023-09-10,2023-09-12
+57,39,Kuala Lumpur,Malaysia,2023-03-30,2023-04-03
+58,40,Cape Town,South Africa,2023-06-21,2023-06-25
+59,41,Tokyo,Japan,2023-07-20,2023-07-23
+60,42,Paris,France,2023-06-08,2023-06-10
+61,43,Prague,Czech Republic,2023-01-13,2023-01-15
+62,43,Karachi,Pakistan,2023-01-15,2023-01-17
+63,44,Marrakech,Morocco,2024-04-16,2024-04-21
+64,45,Maldives,Maldives,2023-08-30,2023-09-02
+65,45,Rome,Italy,2023-09-02,2023-09-06
+66,46,Lisbon,Portugal,2025-05-09,2025-05-11
+67,47,New York,USA,2024-05-03,2024-05-06
+68,47,Marrakech,Morocco,2024-05-06,2024-05-12
+69,48,Paris,France,2024-09-07,2024-09-13
+70,48,New York,USA,2024-09-13,2024-09-15
+71,49,Rome,Italy,2023-04-22,2023-04-27
+72,50,Lisbon,Portugal,2025-02-04,2025-02-09
+73,50,Prague,Czech Republic,2025-02-09,2025-02-16
+74,51,Amsterdam,Netherlands,2024-03-08,2024-03-11
+75,52,Karachi,Pakistan,2025-02-08,2025-02-11
+76,53,Sydney,Australia,2024-05-21,2024-05-25
+77,54,Sydney,Australia,2024-02-19,2024-02-22
+78,54,London,UK,2024-02-22,2024-02-27
+79,55,Marrakech,Morocco,2024-01-24,2024-01-28
+80,56,London,UK,2023-06-12,2023-06-16
+81,57,Amsterdam,Netherlands,2023-02-15,2023-02-17
+82,57,Rome,Italy,2023-02-17,2023-02-20
+83,58,Maldives,Maldives,2025-04-10,2025-04-17
+84,59,Marrakech,Morocco,2024-02-26,2024-02-29
+85,60,Lahore,Pakistan,2024-12-26,2024-12-31
+86,61,Amsterdam,Netherlands,2023-12-20,2023-12-25
+87,61,Lahore,Pakistan,2023-12-25,2023-12-27
+88,62,Lahore,Pakistan,2023-03-07,2023-03-12
+89,63,Lisbon,Portugal,2024-07-09,2024-07-12
+90,64,Istanbul,Turkey,2023-02-17,2023-02-20
+91,65,Lahore,Pakistan,2023-05-12,2023-05-18
+92,65,Athens,Greece,2023-05-18,2023-05-20
+93,66,New York,USA,2024-05-11,2024-05-15
+94,66,Lahore,Pakistan,2024-05-15,2024-05-20
+95,67,Maldives,Maldives,2023-09-25,2023-09-28
+96,68,Athens,Greece,2025-05-26,2025-05-29
+97,68,Karachi,Pakistan,2025-05-29,2025-05-31
+98,69,Maldives,Maldives,2023-04-15,2023-04-21
+99,70,Dubai,UAE,2024-11-05,2024-11-12
+100,71,Rome,Italy,2024-06-18,2024-06-23

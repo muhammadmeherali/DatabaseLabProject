@@ -1,0 +1,101 @@
+ActivityID,DestinationID,ActivityName,Location,ActivityTime,Cost
+1,1,Zoo & Safari Park,"Wildlife Reserve, London",8:45:00,27.71
+2,1,Sunset Cruise,"Harbor Waterfront, London",15:00:00,133.06
+3,2,Paragliding,"Mountain Launch Site, London",12:30:00,88.94
+4,3,Paragliding,"Mountain Launch Site, Istanbul",11:45:00,114.74
+5,3,Night City Tour,"Downtown District, Istanbul",11:15:00,174.17
+6,4,Art Gallery Visit,"Contemporary Art Museum, Sydney",13:30:00,165.9
+7,4,Cooking Class,"Local Culinary School, Sydney",12:45:00,174.4
+8,5,Zoo & Safari Park,"Wildlife Reserve, Athens",15:30:00,73.16
+9,5,Zoo & Safari Park,"Wildlife Reserve, Athens",14:45:00,187.24
+10,6,Cable Car Ride,"City Hilltop, Amsterdam",17:45:00,54.38
+11,7,Museum Visit,"National Museum, Bangkok",13:45:00,143.99
+12,7,Night City Tour,"Downtown District, Bangkok",14:15:00,104.11
+13,8,Mountain Hiking,"Northern Trail, Amsterdam",16:30:00,175.24
+14,9,Sunset Cruise,"Harbor Waterfront, Vienna",16:45:00,12.92
+15,9,Mountain Hiking,"Northern Trail, Vienna",14:15:00,24.22
+16,10,Bazaar Shopping Tour,"Grand Bazaar, Rome",17:45:00,133.47
+17,10,Bazaar Shopping Tour,"Grand Bazaar, Rome",18:45:00,191.29
+18,11,Zoo & Safari Park,"Wildlife Reserve, Paris",8:00:00,54.61
+19,11,Cooking Class,"Local Culinary School, Paris",11:00:00,92.45
+20,12,Sunset Cruise,"Harbor Waterfront, Paris",15:15:00,141.86
+21,13,Museum Visit,"National Museum, Tokyo",13:00:00,65.74
+22,14,Art Gallery Visit,"Contemporary Art Museum, Cape Town",10:15:00,110.92
+23,14,Whale Watching,"Ocean Bay, Cape Town",18:15:00,42.3
+24,15,Cycling Tour,"Riverside Path, Lisbon",14:15:00,104.56
+25,16,Cable Car Ride,"City Hilltop, Lahore",15:30:00,97.32
+26,17,Theme Park Visit,"City Adventure Park, New York",12:15:00,24.03
+27,18,Whale Watching,"Ocean Bay, Lahore",12:45:00,141.16
+28,18,Theme Park Visit,"City Adventure Park, Lahore",12:15:00,199.88
+29,19,Sunset Cruise,"Harbor Waterfront, Athens",11:45:00,118.67
+30,19,Whale Watching,"Ocean Bay, Athens",12:30:00,14.17
+31,20,Boat Island Hopping,"South Bay Marina, Cape Town",8:00:00,183.02
+32,20,Paragliding,"Mountain Launch Site, Cape Town",12:15:00,125.34
+33,21,Cable Car Ride,"City Hilltop, Marrakech",18:15:00,127.97
+34,21,Mountain Hiking,"Northern Trail, Marrakech",18:00:00,181.65
+35,22,Cooking Class,"Local Culinary School, Paris",15:00:00,120.12
+36,23,Food & Spice Market Tour,"Central Market, New York",12:30:00,152.02
+37,24,Historical Ruins Tour,"Ancient City Site, Singapore",10:30:00,110.86
+38,25,Desert Safari,"Outskirts Desert Camp, Istanbul",12:45:00,193.8
+39,25,Cooking Class,"Local Culinary School, Istanbul",13:00:00,98.98
+40,26,Mountain Hiking,"Northern Trail, Maldives",11:45:00,193.78
+41,27,Food & Spice Market Tour,"Central Market, Dubai",14:00:00,60.25
+42,27,Sunset Cruise,"Harbor Waterfront, Dubai",15:30:00,137.84
+43,28,Whale Watching,"Ocean Bay, Cape Town",14:30:00,30.59
+44,28,Cable Car Ride,"City Hilltop, Cape Town",15:00:00,127.71
+45,29,Cycling Tour,"Riverside Path, Bali",11:00:00,130.73
+46,29,Theme Park Visit,"City Adventure Park, Bali",12:45:00,32.17
+47,30,Museum Visit,"National Museum, London",12:45:00,32.06
+48,31,Zoo & Safari Park,"Wildlife Reserve, Paris",10:45:00,96.19
+49,32,Whale Watching,"Ocean Bay, Prague",10:45:00,134.44
+50,32,Paragliding,"Mountain Launch Site, Prague",17:45:00,188.42
+51,33,Museum Visit,"National Museum, Athens",13:15:00,94.24
+52,33,Cable Car Ride,"City Hilltop, Athens",13:00:00,196.38
+53,34,Zoo & Safari Park,"Wildlife Reserve, Lahore",18:30:00,21.5
+54,34,Boat Island Hopping,"South Bay Marina, Lahore",11:00:00,190.31
+55,35,Food & Spice Market Tour,"Central Market, Maldives",18:15:00,131.92
+56,35,Cycling Tour,"Riverside Path, Maldives",8:00:00,159.49
+57,36,Mountain Hiking,"Northern Trail, London",17:15:00,23.04
+58,37,Whale Watching,"Ocean Bay, Istanbul",11:15:00,72.43
+59,38,Cycling Tour,"Riverside Path, Amsterdam",8:30:00,173.1
+60,39,Mountain Hiking,"Northern Trail, Singapore",16:30:00,161.72
+61,40,City Walking Tour,"Old Town Square, Cape Town",10:00:00,78.07
+62,41,Whale Watching,"Ocean Bay, Cape Town",13:00:00,43.11
+63,42,Mountain Hiking,"Northern Trail, Athens",14:00:00,151.68
+64,43,Theme Park Visit,"City Adventure Park, Cape Town",13:00:00,95.88
+65,43,Cable Car Ride,"City Hilltop, Cape Town",17:00:00,148.18
+66,44,Theme Park Visit,"City Adventure Park, Bali",18:00:00,21.56
+67,44,Paragliding,"Mountain Launch Site, Bali",14:45:00,140.36
+68,45,Theme Park Visit,"City Adventure Park, Amsterdam",9:00:00,71.2
+69,45,Mountain Hiking,"Northern Trail, Amsterdam",9:15:00,62.25
+70,46,Night City Tour,"Downtown District, Tokyo",17:30:00,96.21
+71,46,Cycling Tour,"Riverside Path, Tokyo",14:00:00,160.69
+72,47,Zoo & Safari Park,"Wildlife Reserve, Cape Town",11:45:00,95.8
+73,48,Art Gallery Visit,"Contemporary Art Museum, Barcelona",13:45:00,85.76
+74,49,Bazaar Shopping Tour,"Grand Bazaar, Maldives",14:30:00,136.37
+75,50,Mountain Hiking,"Northern Trail, Istanbul",18:45:00,22.76
+76,50,Food & Spice Market Tour,"Central Market, Istanbul",9:45:00,28.35
+77,51,Mountain Hiking,"Northern Trail, Tokyo",16:00:00,121.43
+78,51,Zoo & Safari Park,"Wildlife Reserve, Tokyo",16:30:00,137.3
+79,52,Snorkeling & Diving,"Coral Reef Beach, Vienna",18:45:00,174.94
+80,52,Museum Visit,"National Museum, Vienna",12:30:00,76.81
+81,53,Mountain Hiking,"Northern Trail, Karachi",18:45:00,52.61
+82,54,Snorkeling & Diving,"Coral Reef Beach, Cape Town",16:30:00,31.83
+83,55,Whale Watching,"Ocean Bay, Athens",11:45:00,170.58
+84,55,Cycling Tour,"Riverside Path, Athens",17:00:00,125.71
+85,56,City Walking Tour,"Old Town Square, Cape Town",10:30:00,143.51
+86,56,Cooking Class,"Local Culinary School, Cape Town",13:30:00,11.16
+87,57,Whale Watching,"Ocean Bay, Kuala Lumpur",18:45:00,23.22
+88,58,Food & Spice Market Tour,"Central Market, Cape Town",16:15:00,81.48
+89,59,Bazaar Shopping Tour,"Grand Bazaar, Tokyo",10:30:00,69.21
+90,59,Bazaar Shopping Tour,"Grand Bazaar, Tokyo",17:00:00,177.84
+91,60,Desert Safari,"Outskirts Desert Camp, Paris",17:00:00,138.05
+92,61,Theme Park Visit,"City Adventure Park, Prague",18:45:00,102.28
+93,61,Theme Park Visit,"City Adventure Park, Prague",14:30:00,50.96
+94,62,Snorkeling & Diving,"Coral Reef Beach, Karachi",14:00:00,63.82
+95,63,Cultural Dance Show,"Cultural Centre, Marrakech",18:30:00,18.63
+96,63,Night City Tour,"Downtown District, Marrakech",17:00:00,11.46
+97,64,Historical Ruins Tour,"Ancient City Site, Maldives",10:30:00,64.99
+98,64,Sunset Cruise,"Harbor Waterfront, Maldives",8:45:00,151.93
+99,65,Mountain Hiking,"Northern Trail, Rome",14:15:00,105.05
+100,66,Food & Spice Market Tour,"Central Market, Lisbon",14:00:00,92.88
